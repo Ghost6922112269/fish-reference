@@ -1,5 +1,5 @@
  ID   |Tier| Name
----| --- | ---
+---:| :---: | :---
 206400 | 00 | Stone Moroko
 206401 | 00 | Azurecheek Carp
 206402 | 01 | Crayfish
