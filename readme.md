@@ -16,22 +16,22 @@
 206413 | 05 | Prince Salmon
 206414 | 0 | Mottled Ray
 206415 | 0 | Catfish
-206416 | 0 | Channel Catfish
-206417 | 0 | Eldritch Carp
+206416 | 06 | Channel Catfish
+206417 | 06 | Eldritch Carp
 206418 | 0 | Gula Shark
-206419 | 0 | Chroma Salmon
-206420 | 0 | Electric Eel
+206419 | 07 | Chroma Salmon
+206420 | 07 | Electric Eel
 206421 | 0 | Yellowfin
-206422 | 0 | Dipturus
+206422 | 08 | Dipturus
 206423 | 0 | Stone Octopus
-206424 | 0 | Crimson Marlin
+206424 | 08 | Crimson Marlin
 206425 | 0 | Prism Carp
 206426 | 0 | Bluefin
 206427 | 0 | Golden Crayfish
-206428 | 0 | Crimson Squid
-206429 | 0 | Mossback
+206428 | 09 | Crimson Squid
+206429 | 09 | Mossback
 206430 | 0 | Golden Eel
-206431 | 0 | Crimson Shark
+206431 | 10 | Crimson Shark
 206432 | 0 | Specklefin
 206433 | 0 | Makaira
 206434 | 0 | Gluda Shark
