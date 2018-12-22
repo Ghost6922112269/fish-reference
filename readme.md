@@ -1,50 +1,51 @@
+ok, re.
 
-
-
-ID   |Tier| Name | img
----:| :---: | :--- | ---
-206400 | 00 | Stone Moroko |![coming soon™](/fish-icons/?raw=true) 
-206401 | 00 | Azurecheek Carp | ![coming soon™](/fish-icons/zzz.png?raw=true) 
-206402 | 01 | Crayfish |
-206403 | 01 | Clownfish |
-206404 | 02 | Angelfish |
-206405 | 02 | Black-fin Clownfish |
-206406 | 03 | Squid |
-206407 | 03 | Crucian Carp |
-206408 | 04 | Sea Eel |
-206409 | 04 | Tang Fish |
-206410 | 04 | Freshwater Eel |
-206411 | 05 | Octopus  |
-206412 | 05 | Marlin |
-206413 | 05 | Prince Salmon |
-206414 | 06 | Mottled Ray
-206415 | 06 | Catfish |
-206416 | 06 | Channel Catfish |
-206417 | 06 | Eldritch Carp |
-206418 | 07 | Gula Shark |
-206419 | 07 | Chroma Salmon |
-206420 | 07 | Electric Eel |
-206421 | 07 | Yellowfin |
-206422 | 08 | Dipturus |
-206423 | 08 | Stone Octopus |
-206424 | 08 | Crimson Marlin |
-206425 | 08 | Prism Carp |
-206426 | 09 | Bluefin |
-206427 | 09 | Golden Crayfish |
-206428 | 09 | Crimson Squid |
-206429 | 09 | Mossback |
-206430 | 09 | Golden Eel |
-206431 | 10 | Crimson Shark |
-206432 | 10 | Specklefin |
-206433 | 10 | Makaira |
-206434 | 10 | Gluda Shark |
-BAF    | 11 | Big-ass Fish |
-206501 | 11 | Golden Shark |
-206502 | 11 | Fairy Snakehead |
-206503 | 11 | Golden Sailfish |
-206504 | 11 | Queen Salmon |
-206505 | 11 | Golden Octopus |
-206506 | 11 | Giant Blue |
-206507 | 11 | Golden Ray |
-206508 | 11 | Darkfin |
-206509 | 11 | Golden Carp |
+ID   |Tier| Name | Fishlets | img
+:---:| :---: | :--- | :---: | ---
+206400 | 00 | Stone Moroko | 02 | ![Img didn't load... try refresh](/fish-icons/fish_ricefish01_tex.png?raw=true)
+206401 | 00 | Azurecheek Carp | 02 | ![Img didn't load... try refresh](/fish-icons/fish_ricefish02_tex.png?raw=true)
+206402 | 01 | Crayfish | 04 | ![Img didn't load... try refresh](/fish-icons/fish_lobster01_tex.png?raw=true)
+206403 | 01 | Clownfish | 04 | ![Img didn't load... try refresh](/fish-icons/fish_clownfish01_tex.png?raw=true)
+206404 | 02 | Angelfish | 06 | ![Img didn't load... try refresh](/fish-icons/fish_clownfish03_tex.png?raw=true)
+206405 | 02 | Black-fin Clownfish | 06 | ![Img didn't load... try refresh](/fish-icons/fish_clownfish04_tex.png?raw=true)
+206406 | 03 | Squid | 08 | ![Img didn't load... try refresh](/fish-icons/fish_squid01_tex.png?raw=true)
+206407 | 03 | Crucian Carp | 08 | ![Img didn't load... try refresh](/fish-icons/fish_carp01_tex.png?raw=true)
+206408 | 04 | Sea Eel | 10 | ![Img didn't load... try refresh](/fish-icons/fish_eel01_tex.png?raw=true)
+206409 | 04 | Tang Fish | 10 | ![Img didn't load... try refresh](/fish-icons/fish_clownfish02_tex.png?raw=true)
+206410 | 04 | Freshwater Eel | 10 | ![Img didn't load... try refresh](/fish-icons/fish_eel02_tex.png?raw=true)
+206411 | 05 | Octopus  | 12 | ![Img didn't load... try refresh](/fish-icons/fish_octopus01_tex.png?raw=true)
+206412 | 05 | Marlin | 12 | ![Img didn't load... try refresh](/fish-icons/fish_spearfish01_tex.png?raw=true)
+206413 | 05 | Prince Salmon | 12 | ![Img didn't load... try refresh](/fish-icons/fish_salmon01_tex.png?raw=true)
+206414 | 06 | Mottled Ray | 14 | ![Img didn't load... try refresh](/fish-icons/fish_ray01_tex.png?raw=true)
+206415 | 06 | Catfish | 14 | ![Img didn't load... try refresh](/fish-icons/fish_catfish01_tex.png?raw=true)
+206416 | 06 | Channel Catfish | 14 | ![Img didn't load... try refresh](/fish-icons/fish_catfish02_tex.png?raw=true)
+206417 | 06 | Eldritch Carp | 14 | ![Img didn't load... try refresh](/fish-icons/fish_carp02_tex.png?raw=true)
+206418 | 07 | Gula Shark | 16 | ![Img didn't load... try refresh](/fish-icons/fish_shark01_tex.png?raw=true)
+206419 | 07 | Chroma Salmon | 16 | ![Img didn't load... try refresh](/fish-icons/fish_salmon02_tex.png?raw=true)
+206420 | 07 | Electric Eel | 16 | ![Img didn't load... try refresh](/fish-icons/fish_eel03_tex.png?raw=true)
+206421 | 07 | Yellowfin | 16 | ![Img didn't load... try refresh](/fish-icons/fish_tuna03_tex.png?raw=true)
+206422 | 08 | Dipturus | 19 | ![Img didn't load... try refresh](/fish-icons/fish_ray03_tex.png?raw=true)
+206423 | 08 | Stone Octopus | 19 | ![Img didn't load... try refresh](/fish-icons/fish_octopus04_blue_tex.png?raw=true)
+206424 | 08 | Crimson Marlin | 19 | ![Img didn't load... try refresh](/fish-icons/fish_spearfish04_red_tex.png?raw=true)
+206425 | 08 | Prism Carp | 19 | ![Img didn't load... try refresh](/fish-icons/fish_carp03_tex.png?raw=true)
+206426 | 09 | Bluefin | 22 | ![Img didn't load... try refresh](/fish-icons/fish_tuna01_tex.png?raw=true)
+206427 | 09 | Golden Crayfish | 22 | ![Img didn't load... try refresh](/fish-icons/fish_lobster03_tex.png?raw=true)
+206428 | 09 | Crimson Squid | 22 | ![Img didn't load... try refresh](/fish-icons/fish_squid03_tex.png?raw=true)
+206429 | 09 | Mossback | 22 | ![Img didn't load... try refresh](/fish-icons/fish_salmon03_tex.png?raw=true)
+206430 | 09 | Golden Eel | 22 | ![Img didn't load... try refresh](/fish-icons/fish_eel05_tex.png?raw=true)
+206431 | 10 | Crimson Shark | 25 | ![Img didn't load... try refresh](/fish-icons/fish_shark02_tex.png?raw=true)
+206432 | 10 | Specklefin | 25 | ![Img didn't load... try refresh](/fish-icons/fish_tuna05_tex.png?raw=true)
+206433 | 10 | Makaira | 25 | ![Img didn't load... try refresh](/fish-icons/fish_spearfish03_tex.png?raw=true)
+206434 | 10 | Gluda Shark | 25 | ![Img didn't load... try refresh](/fish-icons/fish_shark03_tex.png?raw=true)
+206435 | ?? | ???????? | 25 | ![Img didn't load... try refresh](/fish-icons/fish_eel04_tex.png?raw=true)
+BAF    | 11 | Big-ass Fish | 50 | No u
+206500 | ?? | ???????? | 50 | ![Img didn't load... try refresh](/fish-icons/fish_catfish04_tex.png?raw=true)
+206501 | 11 | Golden Shark | 50 | ![Img didn't load... try refresh](/fish-icons/fish_shark04_tex.png?raw=true)
+206502 | 11 | Fairy Snakehead | 50 | ![Img didn't load... try refresh](/fish-icons/fish_catfish03_tex.pngfish_spearfish02_tex.png?raw=true)
+206503 | 11 | Golden Sailfish | 50 | ![Img didn't load... try refresh](/fish-icons/fish_spearfish02_tex.png?raw=true)
+206504 | 11 | Queen Salmon | 50 | ![Img didn't load... try refresh](/fish-icons/fish_salmon05_tex.png?raw=true)
+206505 | 11 | Golden Octopus | 50 | ![Img didn't load... try refresh](/fish-icons/fish_octopus03_tex.png?raw=true)
+206506 | 11 | Giant Blue | 100 | ![Img didn't load... try refresh](/fish-icons/fish_lobster02_tex.png?raw=true)
+206507 | 11 | Golden Ray | 100 | ![Img didn't load... try refresh](/fish-icons/fish_ray04_tex.png?raw=true)
+206508 | 11 | Darkfin | 100 | ![Img didn't load... try refresh](/fish-icons/fish_tuna06_tex.png?raw=true)
+206509 | 11 | Golden Carp | 100 | ![Img didn't load... try refresh](/fish-icons/fish_carp05_tex.png?raw=true)
