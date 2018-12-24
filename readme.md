@@ -36,7 +36,7 @@
 206433 | 10 | ?? | 25 | ![Img didn't load... try refresh](/fish-icons/fish_spearfish03_tex.png?raw=true) | Makaira
 206434 | 10 | ?? | 25 | ![Img didn't load... try refresh](/fish-icons/fish_shark03_tex.png?raw=true) | Gluda Shark
 206435 | 10 | ?? | 25 | ![Img didn't load... try refresh](/fish-icons/fish_eel04_tex.png?raw=true) | Shrieking Eel
-BAF    | -- | -- | -- | No u | Big-Ass Fish
+BAF    | -- | -- | -- | --- | Big-Ass Fish
 206500 | 11 | 30 | 50 | ![Img didn't load... try refresh](/fish-icons/fish_catfish04_tex.png?raw=true) | Giant Blue
 206501 | 11 | 30 | 50 | ![Img didn't load... try refresh](/fish-icons/fish_shark04_tex.png?raw=true) | Golden Shark
 206502 | 11 | 30 | 50 | ![Img didn't load... try refresh](/fish-icons/fish_catfish03_tex.png?raw=true) | Fairy Snakehead
