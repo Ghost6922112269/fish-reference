@@ -10,7 +10,7 @@
 206407 | 03 | 02 | 08 | ![Img didn't load... try refresh](/fish-icons/fish_carp01_tex.png?raw=true) | Crucian Carp
 206408 | 04 | 02 | 10 | ![Img didn't load... try refresh](/fish-icons/fish_eel01_tex.png?raw=true) | Sea Eel
 206409 | 04 | 02 | 10 | ![Img didn't load... try refresh](/fish-icons/fish_clownfish02_tex.png?raw=true) | Tang Fish
-206410 | 04 | ?? | 10 | ![Img didn't load... try refresh](/fish-icons/fish_eel02_tex.png?raw=true) | Freshwater Eel
+206410 | 04 | 02 | 10 | ![Img didn't load... try refresh](/fish-icons/fish_eel02_tex.png?raw=true) | Freshwater Eel
 206411 | 05 | ?? | 12 | ![Img didn't load... try refresh](/fish-icons/fish_octopus01_tex.png?raw=true) | Octopus
 206412 | 05 | 04 | 12 | ![Img didn't load... try refresh](/fish-icons/fish_spearfish01_tex.png?raw=true) | Marlin
 206413 | 05 | 04 | 12 | ![Img didn't load... try refresh](/fish-icons/fish_salmon01_tex.png?raw=true) | Prince Salmon
