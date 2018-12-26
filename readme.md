@@ -18,10 +18,10 @@
 206415 | 06 | 06 | 14 | ![Img didn't load... try refresh](/fish-icons/fish_catfish01_tex.png?raw=true) | Catfish
 206416 | 06 | 06 | 14 | ![Img didn't load... try refresh](/fish-icons/fish_catfish02_tex.png?raw=true) | Channel Catfish
 206417 | 06 | 06 | 14 | ![Img didn't load... try refresh](/fish-icons/fish_carp02_tex.png?raw=true) | Eldritch Carp
-206418 | 07 | ?? | 16 | ![Img didn't load... try refresh](/fish-icons/fish_shark01_tex.png?raw=true) | Gula Shark
-206419 | 07 | ?? | 16 | ![Img didn't load... try refresh](/fish-icons/fish_salmon02_tex.png?raw=true) | Chroma Salmon
-206420 | 07 | ?? | 16 | ![Img didn't load... try refresh](/fish-icons/fish_eel03_tex.png?raw=true) | Electric Eel
-206421 | 07 | ?? | 16 | ![Img didn't load... try refresh](/fish-icons/fish_tuna03_tex.png?raw=true) | Yellowfin
+206418 | 07 | 08 | 16 | ![Img didn't load... try refresh](/fish-icons/fish_shark01_tex.png?raw=true) | Gula Shark
+206419 | 07 | 08 | 16 | ![Img didn't load... try refresh](/fish-icons/fish_salmon02_tex.png?raw=true) | Chroma Salmon
+206420 | 07 | 08 | 16 | ![Img didn't load... try refresh](/fish-icons/fish_eel03_tex.png?raw=true) | Electric Eel
+206421 | 07 | 08 | 16 | ![Img didn't load... try refresh](/fish-icons/fish_tuna03_tex.png?raw=true) | Yellowfin
 206422 | 08 | ?? | 19 | ![Img didn't load... try refresh](/fish-icons/fish_ray03_tex.png?raw=true) | Dipturus
 206423 | 08 | ?? | 19 | ![Img didn't load... try refresh](/fish-icons/fish_octopus04_blue_tex.png?raw=true) | Stone Octopus
 206424 | 08 | ?? | 19 | ![Img didn't load... try refresh](/fish-icons/fish_spearfish04_red_tex.png?raw=true) | Crimson Marlin
