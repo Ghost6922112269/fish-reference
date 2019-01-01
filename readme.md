@@ -1,9 +1,9 @@
   ID   | Tier | Angler | Fishlets | img | Name
 :---:  |:---: | :---:  |  :---:   | --- | :---
-206400 | 00 | ?? | 02 | ![Img didn't load... try refresh](/fish-icons/fish_ricefish01_tex.png?raw=true) | Stone Moroko
-206401 | 00 | ?? | 02 | ![Img didn't load... try refresh](/fish-icons/fish_ricefish02_tex.png?raw=true) | Azurecheek Carp
-206402 | 01 | ?? | 04 | ![Img didn't load... try refresh](/fish-icons/fish_lobster01_tex.png?raw=true) | Crayfish
-206403 | 01 | ?? | 04 | ![Img didn't load... try refresh](/fish-icons/fish_clownfish01_tex.png?raw=true) | Clownfish
+206400 | 00 | 01 | 02 | ![Img didn't load... try refresh](/fish-icons/fish_ricefish01_tex.png?raw=true) | Stone Moroko
+206401 | 00 | 01 | 02 | ![Img didn't load... try refresh](/fish-icons/fish_ricefish02_tex.png?raw=true) | Azurecheek Carp
+206402 | 01 | 01 | 04 | ![Img didn't load... try refresh](/fish-icons/fish_lobster01_tex.png?raw=true) | Crayfish
+206403 | 01 | 01 | 04 | ![Img didn't load... try refresh](/fish-icons/fish_clownfish01_tex.png?raw=true) | Clownfish
 206404 | 02 | 01 | 06 | ![Img didn't load... try refresh](/fish-icons/fish_clownfish03_tex.png?raw=true) | Angelfish
 206405 | 02 | 01 | 06 | ![Img didn't load... try refresh](/fish-icons/fish_clownfish04_tex.png?raw=true) | Black-fin Clownfish
 206406 | 03 | 02 | 08 | ![Img didn't load... try refresh](/fish-icons/fish_squid01_tex.png?raw=true) | Squid
